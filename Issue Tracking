@@ -1,0 +1,52 @@
+# Issue Tracking Process (Freshworks)
+
+This project uses Freshworks for tracking bugs, enhancements, and feature requests.
+
+---
+
+## Creating an Issue
+
+1. Log into Freshworks.
+2. Select the Cybersecurity Analysis Tool project.
+3. Click "New Tickdet".
+4. Provide:
+   - Clear title
+   - Detailed description
+   - Steps to reproduce (if bug)
+   - Acceptance criteria (if feature)
+
+---
+
+## Issue Workflow
+
+Issues move through the following stages:
+
+Open → In Progress → Resolved → Closed
+
+---
+
+## Assigning Issues
+
+- Each issue is assigned to a responsible developer.
+- Priority levels are set based on severity.
+
+---
+
+## Linking GitHub Commits to Issues
+
+When committing changes related to an issue, reference the issue number:
+
+Example:
+
+git commit -m "Add error handling to log analysis script. Fixes #12"
+
+This ensures traceability between development and issue tracking.
+
+---
+
+## Benefits of Issue Tracking
+
+- Maintains accountability
+- Provides audit trail
+- Improves project organization
+- Supports structured security management
