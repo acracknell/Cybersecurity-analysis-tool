@@ -9,8 +9,8 @@ This project demonstrates secure development practices using GitHub for version 
 
 ## Project Structure
 
-- main → Stable production branch
-- development → Integration branch
+- main → Primary Production Branch
+- development → Branch where development takes place
 - feature/* → Individual feature development branches
 
 Example feature branches:
