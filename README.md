@@ -30,7 +30,7 @@ Example feature branches:
 
 1. Clone the repository:
 
-   git clone https://github.com/YOUR_USERNAME/cybersecurity-analysis-tool.git
+   git clone https://github.com/acracknell/cybersecurity-analysis-tool.git
 
 2. Navigate into the project folder:
 
